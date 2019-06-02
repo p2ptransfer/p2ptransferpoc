@@ -1,0 +1,4 @@
+[submodule "src/p2ptransferpoc"]
+	path = src/p2ptransferpoc
+	url = https://github.com/p2ptransfer/p2ptransferpoc.git
+	branch = master
